@@ -1,0 +1,4 @@
+API_KEY: YOUR_API_KEY
+Input_Lang: en
+Output_Langs: UK, FR, IT, DE, ES, ZH, KO, PT-PT, JA
+
